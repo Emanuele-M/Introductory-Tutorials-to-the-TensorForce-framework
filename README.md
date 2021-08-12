@@ -8,7 +8,7 @@ In order to use these tutorials, OpenAI Gym and the TensorForce framework need t
 
 To install OpenAI Gym, please follow the instructions on [Gym's github repository](https://github.com/openai/gym).
 
-To install TensorForce, follow the instructions on the [TensorForce official website](https://tensorforce.readthedocs.io/en/latest/basics/installation.html)
+To install TensorForce, follow the instructions on the [TensorForce official website](https://tensorforce.readthedocs.io/en/latest/basics/installation.html).
 
 # Tutorials
 

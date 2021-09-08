@@ -19,8 +19,8 @@ In this repository are collected three tutorials whose aim is to introduce the T
 
 * [Vanilla Policy Gradient agent in CartPole environment](https://github.com/Emanuele-M/Progetto-Tesi-Tensorforce/blob/main/Vanilla%20Policy%20Gradient%20-%20CartPole/Policy%20Gradient%20agent%20implementation%20in%20TensorForce.ipynb)
  > This tutorial consists of a detailed explaination of the TensorForce implementation of a Reinforcement Learning agent based on the Vanilla Policy Gradient (or REINFORCE) algorithm and its usage to solve the CartPole environment from OpenAI Gym. It also reports a sufficiently detailed introduction to the concept of *policy* and to Policy Gradient methods.
- > <div><img src=\"78819170-cb8f0780-79a3-11ea-8ad6-069968da4d14.gif\", width=500px, height=500px /></div>
+ > <div><img src=\"78819170-cb8f0780-79a3-11ea-8ad6-069968da4d14.gif\", width=500px, height=500px></div>
 
 * [Policy Gradient solution to the LunarLander environment using the TensorForce framework](https://github.com/Emanuele-M/Introductory-Tutorials-to-the-TensorForce-framework/blob/main/Policy%20Gradient%20-%20LunarLander/Policy%20Gradient%20solution%20to%20the%20LunarLander%20environment%20using%20the%20TensorForce%20framework.ipynb)
  > This tutorial reports a detailed walkthrough of the creation, training and evaluation of an agent in the LunarLander environment from the Open AI Gym toolkit, with particular attention given to explaining the significance of the values and parameter configurations used in the example. It also contains a brief summary of the idea behind Policy Gradient methods and, in particulare, describes the REINFORCE algorithm.
- > <div><img src=\"3.gif\", width=500px, height=500px /></div>
+ > <div><img src=\"3.gif\", width=500px, height=500px></div>

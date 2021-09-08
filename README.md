@@ -1,6 +1,6 @@
 # TensorForce Tutorial Development
 
-This repo contains some tutorials covering the implementation of Reinforcement Learning agents using the TensorForce framework, as well as an introductory tutorial to some of the perks and features of this RL framework.
+This repository contains some tutorials covering the implementation of Reinforcement Learning agents using the TensorForce framework, as well as an introductory tutorial to some of the perks and features of this RL framework.
 
 # Getting started
 

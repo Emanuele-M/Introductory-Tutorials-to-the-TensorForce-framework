@@ -14,7 +14,7 @@ To install TensorForce, follow the instructions on the [TensorForce official web
 
 In this repository are collected three tutorials whose aim is to introduce the TensorForce framework, its features and the main abstractions provided for various parts of the main elements of Reinforcement Learning, such as agents, environments and modules, as well as its introduction of an execution routine, and showcase these qualities through two practical applications over environments from the Open AI Gym toolkit.
 
-* Introduction to the TensorForce framework
+* [Introduction to the TensorForce framework](https://github.com/Emanuele-M/Introductory-Tutorials-to-the-TensorForce-framework/blob/main/Introduction%20to%20the%20TensorForce%20Framework.ipynb)
  > This tutorial is meant to serve as an introduction to the various features provided by the TensorForce framework. In it are discussed the essential functions and features characterizing each different element for which an abstraction is provided (agents, environments, modules and execution) and is then reported a basic example in which an extremely simple agent is created, trained and evaluated in a basic environment.
 
 * [Vanilla Policy Gradient agent in CartPole environment](https://github.com/Emanuele-M/Progetto-Tesi-Tensorforce/blob/main/Vanilla%20Policy%20Gradient%20-%20CartPole/Policy%20Gradient%20agent%20implementation%20in%20TensorForce.ipynb)
